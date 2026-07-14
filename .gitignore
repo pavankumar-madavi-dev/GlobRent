@@ -1,0 +1,4 @@
+credentials/google_creds.json
+credentials/sheet_config.json
+__pycache__/
+*.pyc
