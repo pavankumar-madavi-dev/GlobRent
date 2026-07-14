@@ -152,7 +152,7 @@ def main_menu():
 
 if __name__ == "__main__":
     print("\n1. मराठी | 2. English")
-    lang_ch = input("Select Language (1-2): ")
+    lang_ch = "2"
     if lang_ch in LANGUAGES:
         current_lang = lang_ch
     while True:
